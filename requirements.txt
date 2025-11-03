@@ -1,0 +1,7 @@
+pandas
+numpy
+paho-mqtt
+tensorflow
+joblib
+scikit-learn
+logging
